@@ -39,6 +39,8 @@ function People() {
                     )
                 })
             }
+
+            <h3>welcome to out web application</h3>
         </>
     )
 }
